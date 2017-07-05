@@ -1,0 +1,3 @@
+rootProject.name = 'LittleCareApp'
+
+include ':app'
